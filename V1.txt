@@ -1,1 +1,50 @@
+# === Random ===
 0.0.0.0 html-load.com
+# === Unity Ads ===
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 ads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 auction.unityads.unity3d.com
+
+# === AppLovin ===
+0.0.0.0 applovin.com
+0.0.0.0 a.applovin.com
+0.0.0.0 rt.applovin.com
+0.0.0.0 d.applovin.com
+0.0.0.0 prod.applovin.com
+
+# === IronSource / Supersonic ===
+0.0.0.0 supersonicads.com
+0.0.0.0 isnssdk.com
+0.0.0.0 ironsrc.com
+
+# === Vungle ===
+0.0.0.0 vungle.com
+0.0.0.0 ads.vungle.com
+
+# === Chartboost ===
+0.0.0.0 chartboost.com
+0.0.0.0 api.chartboost.com
+
+# === Mintegral ===
+0.0.0.0 mintegral.com
+0.0.0.0 ads.mintegral.com
+
+# === Tapjoy ===
+0.0.0.0 tapjoy.com
+0.0.0.0 ws.tapjoyads.com
+
+# === Fyber / Digital Turbine ===
+0.0.0.0 fyber.com
+0.0.0.0 engine.fyber.com
+
+# === InMobi ===
+0.0.0.0 inmobi.com
+0.0.0.0 ads.inmobi.com
+
+# === Liftoff / Vungle Exchange ===
+0.0.0.0 liftoff.io
+
+# === Pangle / TikTok Ads ===
+0.0.0.0 pangle.io
+0.0.0.0 ads.pangle.io
